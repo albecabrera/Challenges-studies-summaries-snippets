@@ -1,5 +1,5 @@
 # Challenges-studies-summaries-snippets
-# Challenges-studies-summaries-snippets
+
 
 In this repository I collect my current study materials, challenges, exercises I am involved in and my code snippets.
 
