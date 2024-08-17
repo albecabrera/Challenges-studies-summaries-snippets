@@ -10,7 +10,7 @@ _https://gist.github.com/albecabrera_
 ## Study materials and summaries done
 
 - [Coding-challenges](https://github.com/albecabrera/coding-challenges): This repository contains a collection of challenges that I have solved.
-- [[VS-Code Shortcuts](https://github.com/albecabrera/devTalles---Visual-Studio-Code-Mejora-tu-velocidad-para-codificar): Mis notas personales del curso brindado por _Fernando Herrera_ sobre `Visual Studio Code`. (en progreso...)
+- [VS-Code Shortcuts](https://github.com/albecabrera/devTalles---Visual-Studio-Code-Mejora-tu-velocidad-para-codificar): Mis notas personales del curso brindado por _Fernando Herrera_ sobre `Visual Studio Code`. (en progreso...)
 
 
 ## Ideas to develop
