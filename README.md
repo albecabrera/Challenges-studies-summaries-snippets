@@ -15,7 +15,7 @@ _https://gist.github.com/albecabrera_
 
 ## Ideas to develop
 
-- [Ideas and ToDo](https://github.com/albecabrera/ideas)
+- [Ideas and ToDo]()
 
 ## My social networks
 
